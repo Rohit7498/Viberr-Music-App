@@ -1,6 +1,24 @@
 # Django-Music-App
 ![](http://i.imgur.com/YiFZyuW.png)
 
+<h1>Requirements</h1>
+<ul>
+  <li>Python 3.x</li>
+  <li>Django 1.9</li>
+  <li>Bootstrap 4</li>
+</ul>
+
+<h1>Getting Started</h1>
+<ul>
+    <li>Clone the repository</li>
+    <li>Download Latest version of Python (3.x) <a href="https://www.python.org/downloads/"> Link </a> </li>
+    <li>Download pip on cmd or powershell</li>
+    <li>pip install pipenv to create an environment to place all the dependencies</li>
+    <li>Install django via command pip install django==1.9</li>
+    <li>Start a django project and paste all the files cloned to get started</li>
+</ul>
+
+
 # What is Viberr?
 
 Viberr is an application that let's you upload, store, and play all of your music from the cloud. You can now manage and listen to your music from any device, anywhere in the world. 
