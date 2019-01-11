@@ -1,5 +1,4 @@
 # Django-Music-App
-![](http://i.imgur.com/YiFZyuW.png)
 
 <h1>Requirements</h1>
 <ul>
@@ -18,6 +17,7 @@
     <li>Start a django project and paste all the files cloned to get started</li>
 </ul>
 
+![](http://i.imgur.com/YiFZyuW.png)
 
 # What is Viberr?
 
